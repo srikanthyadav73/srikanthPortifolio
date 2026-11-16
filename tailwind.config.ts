@@ -26,7 +26,7 @@ const config: Config = {
         },
       },
       fontFamily: {
-        serif: ["Cormorant Garamond", "Playfair Display", "Cinzel", "Georgia", "serif"],
+        serif: ["'Instrument Serif'", "Cormorant Garamond", "Playfair Display", "Cinzel", "Georgia", "serif"],
         sans: ["Plus Jakarta Sans", "Inter", "system-ui", "-apple-system", "sans-serif"],
         mono: ["JetBrains Mono", "IBM Plex Mono", "Consolas", "monospace"],
       },
