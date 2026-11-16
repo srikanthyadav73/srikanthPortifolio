@@ -1,0 +1,43 @@
+# Srikanth Yadav Gorla – Developer Portfolio & Professional Profile
+
+> Python Backend Developer, Software Developer, and Full Stack Systems Builder based in Hyderabad, India.
+
+## Summary
+Srikanth Yadav Gorla is a Software Developer specializing in Python backend engineering, RESTful API design, database architecture (PostgreSQL, Redis), multi-tenant SaaS systems, and retrieval-augmented AI systems (RAG). He completed a Python Developer Internship at Ealkay Consulting Pvt. Ltd. (Feb 2026 – Oct 2026), engineering core ESOP allocation engines, GA4/GSC analytics pipelines, and secure enterprise REST services.
+
+## Contact & Links
+- Full Name: Srikanth Yadav Gorla
+- Location: Hyderabad, Telangana, India
+- Email: srikanthyadav.gorla@gmail.com
+- GitHub: https://github.com/srikanthyadav
+- LinkedIn: https://www.linkedin.com/in/srikanth-yadav-gorla
+- Portfolio: https://srikanthyadav.dev
+
+## Core Technical Competencies
+- Programming: Python (Asyncio, Pydantic, Object-Oriented, Functional), JavaScript, TypeScript, SQL, Bash
+- Frameworks: FastAPI, Django, Django REST Framework, Flask, Next.js, React
+- Databases & In-Memory: PostgreSQL, Redis, MongoDB, SQLite
+- AI & Data Engineering: LangChain, ChromaDB, FAISS, Pandas, NumPy, Vector Embeddings, LLM Orchestration
+- Tools & DevOps: Docker, Celery, Git, Linux, Postman, Pytest, Tailwind CSS
+
+## Experience
+- Python Developer Intern at Ealkay Consulting Pvt. Ltd. (Feb 2026 – Oct 2026)
+  - Engineered production RESTful APIs with FastAPI and Django for multi-tenant ESOP SaaS platform.
+  - Implemented PostgreSQL schema normalization and Redis caching, cutting read latency by 38%.
+  - Designed asynchronous ingestion pipelines with Celery and Redis for enterprise data processing.
+
+## Education
+- B.Tech in Computer Science and Engineering
+  - Institution: Malla Reddy Institute of Technology and Science, Hyderabad
+  - CGPA: 7.24 / 10
+
+## Key Projects
+- EQUAILY: Enterprise ESOP Management SaaS Platform (FastAPI, PostgreSQL, Next.js, Redis, Docker).
+- GA4 & GSC Digital Intelligence Platform: Multi-account analytics aggregation & anomaly detection engine.
+- PBS (Points Based System): Gamified enterprise merit appraisal and ledger tracking system.
+- RAG AI Chatbot: Retrieval-Augmented Generation assistant using vector embeddings and semantic search.
+- GrowEasy AI CSV Importer: High-throughput asynchronous CSV processing engine with schema healing.
+- Medi Connect: Telemedicine consultation and digital health records workflow portal.
+- Smart City Agri-Distribution: Perishable food transit optimization and CVRPTW routing algorithm.
+- Student Attendance Management and Visualization: Institutional biometric tracking and risk detection.
+- SEO Backlink Automation: Distributed web crawler and anchor-text verification tool.
